@@ -53,3 +53,7 @@ La ecuacion de Eistein es $E = mc^2$. Esta ecuacion es muy famosa.
 $$
 x = 2^4*y + 1
 $$
+
+![Foto1](imagen.jpg)
+
+
